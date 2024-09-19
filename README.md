@@ -5,5 +5,5 @@ Este proyecto implementa varias estructuras de datos y algoritmos en C++ y mide 
 ## Cómo ejecutar
 1. Clona el repositorio:
    ```bash
-   git clone .git
+   git clone https://github.com/LiaV11/Extraclase_2.git
    cd Extraclase_2
