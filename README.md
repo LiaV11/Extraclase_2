@@ -1,6 +1,6 @@
 # Extraclase_2
 
-Este proyecto implementa varias estructuras de datos y algoritmos en C++ y mide su tiempo de ejecución para diferentes tamaños de entrada. Los resultados se grafican utilizando GTK.
+Este extraclase implementa varias estructuras de datos y algoritmos en C++ y mide su tiempo de ejecución para diferentes tamaños de entrada. Los resultados se grafican utilizando GTK.
 
 ## Cómo ejecutar
 1. Clonar el repositorio:
