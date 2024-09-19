@@ -63,6 +63,20 @@ build CMakeFiles/Extraclase_2.dir/linked_list.cpp.obj: CXX_COMPILER__Extraclase_
   OBJECT_DIR = CMakeFiles\Extraclase_2.dir
   OBJECT_FILE_DIR = CMakeFiles\Extraclase_2.dir
 
+build CMakeFiles/Extraclase_2.dir/main.cpp.obj: CXX_COMPILER__Extraclase_2_unscanned_Debug C$:/Users/valer/OneDrive/Documentos/Trabajos$ 2024/II$ Semestre/Datos$ 2/Extraclase_2/main.cpp || cmake_object_order_depends_target_Extraclase_2
+  DEP_FILE = CMakeFiles\Extraclase_2.dir\main.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -I"C:/Users/valer/OneDrive/Documentos/Trabajos 2024/II Semestre/Datos 2/Extraclase_2/."
+  OBJECT_DIR = CMakeFiles\Extraclase_2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Extraclase_2.dir
+
+build CMakeFiles/Extraclase_2.dir/sorting_algorithms.cpp.obj: CXX_COMPILER__Extraclase_2_unscanned_Debug C$:/Users/valer/OneDrive/Documentos/Trabajos$ 2024/II$ Semestre/Datos$ 2/Extraclase_2/sorting_algorithms.cpp || cmake_object_order_depends_target_Extraclase_2
+  DEP_FILE = CMakeFiles\Extraclase_2.dir\sorting_algorithms.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -I"C:/Users/valer/OneDrive/Documentos/Trabajos 2024/II Semestre/Datos 2/Extraclase_2/."
+  OBJECT_DIR = CMakeFiles\Extraclase_2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Extraclase_2.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Extraclase_2
@@ -71,7 +85,7 @@ build CMakeFiles/Extraclase_2.dir/linked_list.cpp.obj: CXX_COMPILER__Extraclase_
 #############################################
 # Link the executable Extraclase_2.exe
 
-build Extraclase_2.exe: CXX_EXECUTABLE_LINKER__Extraclase_2_Debug CMakeFiles/Extraclase_2.dir/graphing.cpp.obj CMakeFiles/Extraclase_2.dir/linked_list.cpp.obj
+build Extraclase_2.exe: CXX_EXECUTABLE_LINKER__Extraclase_2_Debug CMakeFiles/Extraclase_2.dir/graphing.cpp.obj CMakeFiles/Extraclase_2.dir/linked_list.cpp.obj CMakeFiles/Extraclase_2.dir/main.cpp.obj CMakeFiles/Extraclase_2.dir/sorting_algorithms.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Extraclase_2.dir

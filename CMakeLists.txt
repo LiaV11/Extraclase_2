@@ -9,4 +9,6 @@ add_executable(Extraclase_2
     graphing.cpp
     graphing.h
         linked_list.h
-        linked_list.cpp)
+        linked_list.cpp
+        main.cpp
+        sorting_algorithms.cpp)
